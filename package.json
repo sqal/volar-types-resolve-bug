@@ -1,0 +1,12 @@
+{
+  "name": "volar-bug",
+  "version": "0.0.1",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {
+    "@types/gtag.js": "^0.0.10",
+    "typescript": "^4.6.4"
+  }
+}
